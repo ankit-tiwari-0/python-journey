@@ -12,7 +12,7 @@ def generate_report():
     fetch_sale()  
     filter_valid_sales()
     summarize_data()
-    print("report is ready")
+    print("report is ready !")
 
 
 generate_report()
